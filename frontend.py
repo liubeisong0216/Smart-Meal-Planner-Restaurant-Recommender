@@ -9,6 +9,7 @@ from streamlit_folium import folium_static
 
 
 API_URL = "API_URL"
+test = 'small test'
 
 # Page Configuration
 st.set_page_config(
